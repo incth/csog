@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://inthecloud.co.th/cog/</loc>
+         <loc>https://incth.github.io/csog/</loc>
          <lastmod>2025-02-14</lastmod>
     </url>
     <url>
-         <loc>https://inthecloud.co.th/cog/entra/Microsoft-Entra-hybrid-join-targeted-deployment/</loc>
+         <loc>https://incth.github.io/csog/entra/Conditional%20Access%20policy%20templates/</loc>
+         <lastmod>2025-02-14</lastmod>
+    </url>
+    <url>
+         <loc>https://incth.github.io/csog/entra/Microsoft-Entra-hybrid-join-targeted-deployment/</loc>
          <lastmod>2025-02-14</lastmod>
     </url>
 </urlset>
